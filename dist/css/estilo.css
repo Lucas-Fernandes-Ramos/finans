@@ -1,0 +1,19 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa{
+	padding:  60px 0;
+	border-bottom: 2px solid green;
+}
+
+
+
+a:link{
+	text-decoration: none;
+}
+footer p a{
+	margin:  5px  15px;	
+    
+}
